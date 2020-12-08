@@ -1,0 +1,2 @@
+# monster-ranking-app
+This project is an attempt to catalogue and rank all the mosters across America. It is it is currently being updated to include custom accounts, and to update some features. It is a react project that pulls from google's firestore for data storage. Moving forward this project could become an interactive platform where others can see which monster have been ranked what by their friends. Eventually this system would lead us to find the statistically most terrifying monster in America.
