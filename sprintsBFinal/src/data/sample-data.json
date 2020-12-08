@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Boggy Creek Monster",
+    "rating": 4,
+    "place": "Fouke, Arkansas"
+  },
+  {
+    "name": "Mothman",
+    "rating": 4,
+    "place": "Point Pleasant, West Virgina"
+  },
+  {
+    "name": "Dogman",
+    "rating": 2,
+    "place": "Michigan Forrests"
+  },
+  {
+    "name": "El Chuppacabre",
+    "rating": 4,
+    "place": "Puerto Rico to Oregon"
+  },
+  {
+    "name": "Bigfoot",
+    "rating": 1,
+    "place": "Appalachian Region"
+  },
+  {
+    "name": "Lizard Man of the Scrape Ore Swamp",
+    "rating": 5,
+    "place": "Scrape Ore Swamp, South Carolina"
+  },
+  {
+    "name": "Jersey Devil",
+    "rating": 4,
+    "place": "New Jersey"
+  }
+]
